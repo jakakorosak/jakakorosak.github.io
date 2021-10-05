@@ -1,7 +1,6 @@
 html {
   font-family: "Helvetica", sans-serif;
-  font-size: larger;
-}
+  }
 
 @media only screen and (max-width:1020px) {
 
@@ -10,6 +9,7 @@ html {
 		margin-bottom: 10%;
 		margin-left: 10%;
 		margin-right: 10%;
+		font-size: 200%;
 	}
 }
 @media only screen and (min-width:1020px) {
@@ -19,5 +19,6 @@ html {
 		margin-bottom: 10%;
 		margin-left: 30%;
 		margin-right: 30%;
+		font-size: 200%;
 	}
 }
