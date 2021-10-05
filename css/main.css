@@ -22,3 +22,29 @@ html {
 		font-size: 150%;
 	}
 }
+
+nav {
+	margin-top: 2.5%;
+	margin-bottom: 2.5%;
+	padding-bottom: 2.5%;
+}
+a {
+	color:black;
+}
+
+nav a {
+	font-weight: bold; 
+	margin-right: 50px;
+}
+
+nav ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+nav li {
+	float: left;
+	margin: 0;
+}
