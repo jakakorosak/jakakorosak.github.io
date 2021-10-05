@@ -3,10 +3,12 @@ html {
 }
 
 @media and (min-width:320px) {
-  body{
-   margin:50px;
-  }
-}
+
+	body {
+		margin-top: 10%;
+		margin-bottom: 10%;
+		margin-left: 10%;
+		margin-right: 10%;
 
 @media and (min-width:1025px) {
 
