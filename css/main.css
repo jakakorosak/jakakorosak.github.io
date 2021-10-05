@@ -1,8 +1,9 @@
 html {
-  font-family: "Dejavu Sans Mono", sans-serif;
+  font-family: "Helvetica", sans-serif;
+  font-size: larger;
 }
 
-@media and (min-width:320px) {
+@media only screen and (min-width:320px) {
 
 	body {
 		margin-top: 10%;
@@ -11,7 +12,7 @@ html {
 		margin-right: 10%;
 	}
 }
-@media and (min-width:1025px) {
+@media only screen and (min-width:1025px) {
 
 	body {
 		margin-top: 10%;
