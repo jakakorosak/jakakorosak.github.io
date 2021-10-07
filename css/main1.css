@@ -1,0 +1,61 @@
+html {
+  font-family: "Helvetica", sans-serif;
+  }
+
+@media screen and (max-width: 768px) {
+
+body {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 3vw;
+	}
+
+h2 {
+	font-size: 7vw;
+	}
+
+nav {
+	margin-top: 2.5%;
+	margin-bottom: 2.5%;
+	padding-bottom: 0%;
+	font-weight: bold;
+	font-size: 4vw;
+	}
+
+a {
+	color:black;
+	margin-right: 7.5%;
+	}
+}
+
+
+
+
+@media screen and (min-width: 768px) {
+	body {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 2vw;
+	}
+
+h2 {
+	font-size: 6vw;
+	}
+
+nav {
+	margin-top: 0%;
+	margin-bottom: 2.5%;
+	padding-bottom: 0%;
+	font-weight: bold;
+	font-size: 3.5vw;
+	}
+
+a {
+	color:black;
+	margin-right: 7.5%;
+	}
+}
