@@ -30,6 +30,12 @@ html {
 		color:black;
 		margin-right: 7.5%;
 	}
+
+	p {
+		color:black;
+		margin-right: 0%
+	}
+
 }
 @media only screen and (min-width:1020px) {
 
@@ -56,4 +62,10 @@ html {
 		color:black;
 		margin-right: 7.5%;
 	}
+
+	p {
+		color:black;
+		margin-right: 0%
+	}
+
 }
