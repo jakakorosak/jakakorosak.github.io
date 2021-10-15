@@ -1,0 +1,91 @@
+div.gallery {
+
+	margin-right: 0%;
+
+}
+
+div.gallery img {
+	width: 100%;
+	height: auto;
+}
+
+div.desc {
+	
+	margin-top: 2%;	
+	margin-bottom: 5%;
+	font-weight: bold;
+	text-align: right;
+
+}
+
+html {
+	font-family: "Helvetica", sans-serif;
+}
+
+@media only screen and (max-width:1020px) {
+
+	body {
+		margin-top: 5%;
+		margin-bottom: 5%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-size: 200%;
+	}
+
+	h2 {
+		font-size: 200%;
+	}
+
+	nav {
+		margin-top: 2.5%;
+		margin-bottom: 2.5%;
+		
+		font-weight: bold;
+		font-size: 125%;
+	}
+
+	a {
+		color:black;
+		margin-right: 7.5%;
+
+	}
+
+	p {
+		color:black;
+		margin-right: 0%
+	}
+
+}
+@media only screen and (min-width:1020px) {
+
+	body {
+		margin-top: 5%;
+		margin-bottom: 5%;
+		margin-left: 10%;
+		margin-right: 10%;
+		font-size: 200%;
+	}
+
+	h2 {
+		font-size: 200%;
+	}
+	nav {
+		margin-top: 2.5%;
+		margin-bottom: 2.5%;
+		
+		font-weight: bold;
+		font-size: 125%;
+	}
+
+	a {
+		color:black;
+		margin-right: 5%;
+
+	}
+
+	p {
+		color:black;
+		margin-right: 0%
+	}
+
+}
