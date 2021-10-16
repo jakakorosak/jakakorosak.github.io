@@ -1,14 +1,18 @@
 div.gallery {
 	margin-right: 0%;
+	
 }
 
 div.gallery img {
-	width: 100%;
+
+	margin-left: 10%;
+	width: 80%;
 	height: auto;
 }
 
 div.desc {
-
+	width: 80%;
+	margin-left: 10%;
 	margin-top: 2%;	
 	margin-bottom: 5%;
 	font-weight: bold;
@@ -26,9 +30,8 @@ div.desc_date {
 }
 
 .column {
-	float: left;
-	width: 31%;
-	padding: 1%;
+	width: 100%;
+	padding: 0%;
 }
 
 /* Clear floats after image containers */
@@ -38,11 +41,13 @@ div.desc_date {
 	display: table;
 }
 
-@media screen and (max-width: 1020px) {
-	.column {
-		width: 100%;
-	}
-}
+
+
+
+
+
+
+
 
 
 
