@@ -1,7 +1,5 @@
 div.gallery {
-
 	margin-right: 0%;
-
 }
 
 div.gallery img {
@@ -15,8 +13,29 @@ div.desc {
 	margin-bottom: 5%;
 	font-weight: bold;
 	text-align: right;
-
 }
+
+.column {
+  float: left;
+  width: 31%;
+  padding: 1%;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media screen and (max-width: 1020px) {
+  .column {
+    width: 100%;
+  }
+}
+
+
+
 
 html {
 	font-family: "Helvetica", sans-serif;
