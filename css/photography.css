@@ -75,8 +75,14 @@ html {
 
 	a {
 		color:black;
-		margin-right: 7.5%;
+		
 
+	}
+
+	a.menu {
+
+		color:black;
+		margin-right: 7.5%;
 	}
 
 	p {
@@ -108,6 +114,10 @@ html {
 
 	a {
 		color:black;
+	}
+
+	a.menu {
+		color:black;
 		margin-right: 5%;
 
 	}
@@ -118,3 +128,9 @@ html {
 	}
 
 }
+
+
+
+
+
+

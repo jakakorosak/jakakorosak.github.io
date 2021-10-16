@@ -80,8 +80,14 @@ html {
 
 	a {
 		color:black;
-		margin-right: 7.5%;
+	
 
+	}
+
+	a.menu {
+
+		color:black;
+		margin-right: 1%;
 	}
 
 	p {
@@ -113,8 +119,14 @@ html {
 
 	a {
 		color:black;
-		margin-right: 5%;
+		
 
+	}
+
+	a.menu {
+
+		color:black;
+		margin-right: 1%;
 	}
 
 	p {
