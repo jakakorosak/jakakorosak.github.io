@@ -1,33 +1,9 @@
 div.gallery {
 	margin-right: 0%;
-	
+
 }
 
-div.gallery img {
 
-	margin-left: 10%;
-	width: 80%;
-	height: auto;
-}
-
-div.desc {
-	width: 80%;
-	margin-left: 10%;
-	margin-top: 2%;	
-	margin-bottom: 5%;
-	font-weight: bold;
-	font-size: 75%;
-	text-align: right;
-}
-
-div.desc_date {
-
-	margin-top: 2%;	
-	margin-bottom: 5%;
-	font-weight: bold;
-	font-size: 75%;
-	text-align: left;
-}
 
 .column {
 	width: 100%;
@@ -80,7 +56,7 @@ html {
 
 	a {
 		color:black;
-	
+
 
 	}
 
@@ -93,6 +69,23 @@ html {
 	p {
 		color:black;
 		margin-right: 0%
+	}
+
+	div.gallery img {
+
+		margin-left: 10%;
+		width: 100%;
+		height: auto;
+	}
+
+	div.desc {
+		width: 100%;
+		margin-left: 10%;
+		margin-top: 2%;
+		margin-bottom: 5%;
+		font-weight: bold;
+		font-size: 75%;
+		text-align: right;
 	}
 
 }
@@ -119,7 +112,7 @@ html {
 
 	a {
 		color:black;
-		
+
 
 	}
 
@@ -132,6 +125,23 @@ html {
 	p {
 		color:black;
 		margin-right: 0%
+	}
+
+	div.gallery img {
+
+		margin-left: 10%;
+		width: 80%;
+		height: auto;
+	}
+
+	div.desc {
+		width: 80%;
+		margin-left: 10%;
+		margin-top: 2%;
+		margin-bottom: 5%;
+		font-weight: bold;
+		font-size: 75%;
+		text-align: right;
 	}
 
 }
