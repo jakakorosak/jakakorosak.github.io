@@ -28,7 +28,7 @@ div.desc_date {
 .column {
 	float: left;
 	width: 31%;
-	padding: 1%;
+	margin-right: 2%;	
 }
 
 /* Clear floats after image containers */

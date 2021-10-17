@@ -1,13 +1,21 @@
 div.gallery {
 	margin-right: 0%;
-
 }
 
 
+div.desc_date {
+
+	margin-top: 2%;	
+	margin-bottom: 5%;
+	font-weight: bold;
+	font-size: 75%;
+	text-align: left;
+}
 
 .column {
+	float: left;
 	width: 100%;
-	padding: 0%;
+	
 }
 
 /* Clear floats after image containers */
@@ -16,12 +24,6 @@ div.gallery {
 	clear: both;
 	display: table;
 }
-
-
-
-
-
-
 
 
 
@@ -73,14 +75,14 @@ html {
 
 	div.gallery img {
 
-		margin-left: 10%;
+		
 		width: 100%;
 		height: auto;
 	}
 
 	div.desc {
 		width: 100%;
-		margin-left: 10%;
+		
 		margin-top: 2%;
 		margin-bottom: 5%;
 		font-weight: bold;
