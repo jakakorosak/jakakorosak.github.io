@@ -2,10 +2,8 @@
 
 html {
 	line-height: 1.5;
-	font-family: Georgia, serif;
+
 	font-size: 20px;
-	color: #1a1a1a;
-	background-color: #fdfdfd;
 }
 
 nav {
@@ -14,6 +12,7 @@ nav {
 	padding-bottom: 0%;
 	font-weight: bold;
 	font-size: 125%;
+	
 }
 
 a {
@@ -33,6 +32,14 @@ body {
 	text-rendering: optimizeLegibility;
 	font-kerning: normal;
 }
+.georg {
+	font-family: Georgia, serif;
+}
+
+.helv {
+	font-family: Helvetica, Sans-Serif;
+}
+
 @media (max-width: 600px) {
 	body {
 		font-size: 0.9em;
@@ -46,6 +53,7 @@ body {
 		font-size: 12pt;
 	}
 	p, h2, h3 {
+		
 		orphans: 3;
 		widows: 3;
 	}
@@ -66,7 +74,7 @@ img {
 	max-width: 100%;
 }
 h1 {
-	font-style: Helvetica, sans-serif;
+	font-family: Helvetica, Sans-Serif;
 }
 h1, h2, h3, h4, h5, h6 {
 	margin-top: 1.4em;
