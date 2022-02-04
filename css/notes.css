@@ -2,11 +2,38 @@ html {
 	font-family: "Helvetica", sans-serif;
 }
 
+/* asteriks */
+
+.verified span{
+    vertical-align:sub;
+}
+
+p.zapiski {
+	font-weight: bold;
+}
+
+
+hr {
+	display: black;
+	border-style:  dashed;
+	margin-left: 15%;
+	margin-right: 15%;
+	}
+
+p.crta{
+	text-indent: 15%;
+	margin-bottom: -1%;
+}
+
+p.semester{
+	text-indent: 15%;
+	margin-bottom: -4%;
+}
 
 @media only screen and (max-width:1020px) {
 
 	body {
-		margin-top: 10%;
+		margin-top: 5%;
 		margin-bottom: 10%;
 		margin-left: 10%;
 		margin-right: 10%;
@@ -45,10 +72,10 @@ html {
 @media only screen and (min-width:1020px) {
 
 	body {
-		margin-top: 10%;
+		margin-top: 2.5%;
 		margin-bottom: 10%;
 		margin-left: 26%;
-		margin-right: 25%;
+		margin-right: 10%;
 		font-size: 200%;
 	}
 
