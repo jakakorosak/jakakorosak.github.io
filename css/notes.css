@@ -8,9 +8,6 @@ html {
     vertical-align:sub;
 }
 
-p.zapiski {
-	font-weight: bold;
-}
 
 
 hr {
@@ -21,14 +18,24 @@ hr {
 	}
 
 p.crta{
-	text-indent: 15%;
+	text-indent: 10%;
 	margin-bottom: -1%;
 }
 
 p.semester{
-	text-indent: 15%;
-	margin-bottom: -4%;
+	text-indent: 20%;	
+	}
+
+p.zapiski {
+	font-weight: bold;
+text-indent: 20%;
 }
+
+img.dashed-line {
+	margin-left: 20%;
+	height: 0.75%;
+}
+
 
 @media only screen and (max-width:1020px) {
 
