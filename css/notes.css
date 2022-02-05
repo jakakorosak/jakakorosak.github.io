@@ -5,7 +5,7 @@ html {
 /* asteriks */
 
 .verified span{
-    vertical-align:sub;
+	vertical-align:sub;
 }
 
 
@@ -15,21 +15,14 @@ hr {
 	border-style:  dashed;
 	margin-left: 15%;
 	margin-right: 15%;
-	}
+}
 
 p.crta{
 	text-indent: 10%;
 	margin-bottom: -1%;
 }
 
-p.semester{
-	text-indent: 20%;	
-	}
 
-p.zapiski {
-	font-weight: bold;
-text-indent: 20%;
-}
 
 img.dashed-line {
 	margin-left: 20%;
@@ -72,7 +65,20 @@ img.dashed-line {
 
 	p {
 		color:black;
-		margin-right: 0%
+		margin-right: 0%;
+	}
+
+	p.year{
+		text-indent: 5%;
+	}
+
+	p.semester{
+		text-indent: 5%;
+	}
+
+	p.zapiski {
+		font-weight: bold;
+		text-indent: 5%;
 	}
 
 }
@@ -110,6 +116,17 @@ img.dashed-line {
 	p {
 		color:black;
 		margin-right: 0%
+	}
+	p.year{
+		text-indent: 10%;
+	}
+	p.semester{
+		text-indent: 20%;	
+	}
+
+	p.zapiski {
+		font-weight: bold;
+		text-indent: 20%;
 	}
 
 }
